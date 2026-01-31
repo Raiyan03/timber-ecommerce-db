@@ -7,8 +7,6 @@
 - **Demo data** to simulate a real e-commerce environment
 - **SQL reporting scripts** to analyze business insights, such as popular products, supplier performance, and sales trends
 
-This project is ideal for demonstrating skills in **Oracle SQL, database design, and analytics**.
-
 ---
 
 ## Features
