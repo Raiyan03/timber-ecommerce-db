@@ -23,6 +23,6 @@
   - Customer purchasing trends
   - Inventory and sales summaries
 
-- **Schema Diagram** *(optional)*  
+- **Schema Diagram**
   Visual representation of the database structure to help understand relationships.
 
